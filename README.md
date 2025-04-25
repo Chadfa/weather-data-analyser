@@ -12,7 +12,9 @@ The project uses Pandas for data manipulation and Matplotlib/Seaborn for creatin
 
 .
 ├── analyze_weather.py
+
 ├── weather_data.csv
+
 ├── Readme.md
 
 
